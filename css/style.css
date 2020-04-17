@@ -20,3 +20,10 @@ footer{
 .left-cont-main div{
     padding: 1em;
 }
+.make-me-sticky {
+    position: sticky;
+    top: 10px;
+
+    /* For Bootstrap 4 */
+    padding: 0 15px;
+}
